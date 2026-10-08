@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+
+# Local spec PDF. The repo copy is SPEC.md.
+*.pdf

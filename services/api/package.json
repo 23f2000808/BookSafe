@@ -1,0 +1,6 @@
+{
+  "name": "@seat-booking/api",
+  "version": "0.0.0",
+  "private": true,
+  "description": "NestJS booking API"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "seat-booking",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "services/*",
+    "web"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "npm test -w @seat-booking/shared",
+    "build": "npm run build -w @seat-booking/shared"
+  }
+}

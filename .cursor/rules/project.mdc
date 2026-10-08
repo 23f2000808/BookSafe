@@ -1,0 +1,6 @@
+---
+description: Follow SPEC.md for this repository
+alwaysApply: true
+---
+
+Always read and follow SPEC.md. Do not add features, services or dependencies that are not in SPEC.md.

@@ -7,5 +7,10 @@ coverage/
 !.env.example
 *.log
 
-# Local spec PDF. The repo copy is SPEC.md.
+# Local spec PDF and agent notes. Not part of the app.
 *.pdf
+SPEC.md
+.cursor/
+docs/
+loadtest/
+.github/
